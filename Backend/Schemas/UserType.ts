@@ -18,6 +18,8 @@ const UserType = new GraphQLObjectType({
     })
 });
 
+// asfafsdfa
+
 const RootQuery = new GraphQLObjectType({
     name: 'RootQueryType',
     fields: {
